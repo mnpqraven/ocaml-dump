@@ -5,11 +5,11 @@
 (generate_opam_files true)
 
 (source
- (github username/reponame))
+ (github mnpqraven/ocaml_dump))
 
-(authors "Author Name")
+(authors "Othi")
 
-(maintainers "Maintainer Name")
+(maintainers "Othi")
 
 (license LICENSE)
 
